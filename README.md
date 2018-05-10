@@ -1,2 +1,2 @@
 # PRML Study
-Some materials for presentation
+I uploaded a lecture note and some materials presented at PRML Study Group
