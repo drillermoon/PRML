@@ -1,2 +1,2 @@
-# PRML
-PRML study
+# PRML Study
+Some materials for presentation
